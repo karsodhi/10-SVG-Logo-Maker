@@ -22,6 +22,6 @@ The index.test.js file contains tests that see if the proper information is inse
 
  # Links
 
- Github Repo :
+ Github Repo : https://github.com/karsodhi/10-SVG-Logo-Maker
 
- Walkthrough Video:
+ Walkthrough Video: 
