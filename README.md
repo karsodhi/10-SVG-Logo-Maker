@@ -11,8 +11,6 @@ Install inquirer to use this app
 
 Generate images based off of a question template that is given to you through the application.
 
-# Screenshot
-
 # Credits
  Had help from the tutoring service given to us through Northwestern Coding Camp
 
@@ -24,4 +22,5 @@ The index.test.js file contains tests that see if the proper information is inse
 
  Github Repo : https://github.com/karsodhi/10-SVG-Logo-Maker
 
- Walkthrough Video: 
+ Walkthrough Video: https://drive.google.com/file/d/1USd5S8ot4xf5Y123JOOUGBCE0bDTYHMk/view
+ 
